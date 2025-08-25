@@ -113,3 +113,4 @@ DATA_PATH = 'ecommerce_data/'
 - Other directories contain course notes and reference materials
 - No testing framework or CI/CD is configured
 - Dependencies are Python data science stack: pandas, plotly, streamlit, jupyter
+- The username for git commits should be "jumas45" and the email address is "jumas45@gmail.com"
